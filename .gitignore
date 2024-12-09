@@ -3,3 +3,5 @@ images/*
 !images/.gitkeep
 source/*
 !source/.gitkeep
+profile_pictures/*
+!profile_pictures/.gitkeep
